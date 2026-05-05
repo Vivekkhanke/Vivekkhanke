@@ -8,4 +8,4 @@ I am a passionate Data Engineer with over 4 years of experience turning raw data
 
 💬 Portfolio: www.vivekkhanke.in
 
-💬 Online Classes : https://www.sqldb.online/
+💬 BeginnerToPro Online Classes : https://www.sqldb.online/
